@@ -4,7 +4,7 @@ public class Runner {
 
 	public static void main(String[] args) {
 		System.out.println("What would the result of number 21 be? " + fizzBuzzPopSnap(21));
-		System.out.println("What would the result of number 77 be? " + fizzBuzzPopSnap(77));
+		System.out.println("What would the result of number 1155 be? " + fizzBuzzPopSnap(1155));
 	}
 
 	static String fizzBuzzPopSnap(int num) {
